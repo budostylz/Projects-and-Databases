@@ -1,0 +1,9 @@
+
+CLIENT
+INSERT INTO CLIENT VALUES (1, 'Lewis', 'Shaun', 'Cornell');
+
+CONTRACT
+INSERT INTO Contract VALUES (1, '2013-12-03', 200.00);
+
+Alter Table Service
+Add Consultant_Id int Foreign Key References Consultant(Consultant_Id)
