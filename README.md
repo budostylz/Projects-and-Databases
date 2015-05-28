@@ -1,6 +1,6 @@
-Home Loan Application
+Projects
 ======================
 
 1. Home Loan Application
-2. Software Architecture Definition and Requirements Gathering
-3. Java,JSP, Database Driven
+2. Hotel Reservation System/Requirements Definitions
+3. Social Networking Site Requirements Gathering
